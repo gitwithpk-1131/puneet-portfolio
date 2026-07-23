@@ -16,11 +16,11 @@ function Experience() {
     },
 
     {
-      role: "AI Engineer Intern",
-      company: "Acmegrade",
-      description:
-        "Worked on AI-based applications and gained practical experience in machine learning concepts and Python development."
-    },
+  role: "Digital Marketing Intern",
+  company: "The Website Makers",
+  description:
+    "Assisted in digital marketing campaigns, content creation, social media management, SEO optimization, and performance analysis to enhance online brand visibility."
+  },
 
     {
       role: "Web Development Intern",
